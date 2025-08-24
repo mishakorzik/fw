@@ -1,5 +1,5 @@
 # fw
-Great firewall for your linux
+Easily block malicious traffic before it even reaches conntrack and set limits.
 
 ## Install
 ```
