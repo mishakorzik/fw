@@ -3,9 +3,9 @@ Easily block malicious traffic before it even reaches conntrack and set limits.
 
 ## Install
 ```
-wget https://github.com/mishakorzik/fw/releases/download/1.0.6b/fw-1.0.6b.deb
-sudo apt install ./fw-1.0.6b.deb -y
-rm fw-1.0.6b.deb
+wget https://github.com/mishakorzik/fw/releases/download/1.0.7b/fw-1.0.7b.deb
+sudo apt install ./fw-1.0.7b.deb -y
+rm fw-1.0.7b.deb
 ```
 
 ## Screenshots
